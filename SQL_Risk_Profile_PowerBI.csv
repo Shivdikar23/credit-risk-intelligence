@@ -1,0 +1,49 @@
+EmploymentType,Credit_Risk,DTI_Risk,Borrowers,Defaults,Default_Rate,Avg_Income,Avg_LoanAmount,Avg_InterestRate
+Unemployed,High Credit Risk,High DTI,6455,1028,15.93,82581.74,127745.42,13.59
+Unemployed,High Credit Risk,Medium DTI,4383,688,15.7,81565.92,128448.27,13.53
+Unemployed,Medium Credit Risk,High DTI,6376,936,14.68,83443.51,127119.45,13.49
+Unemployed,High Credit Risk,Low DTI,6617,936,14.15,82241.7,127844.69,13.56
+Self-employed,High Credit Risk,Medium DTI,4367,609,13.95,82609.37,127033.2,13.64
+Part-time,High Credit Risk,High DTI,6415,894,13.94,81929.77,127408.21,13.41
+Part-time,High Credit Risk,Medium DTI,4403,612,13.9,82016.73,126683.16,13.47
+Unemployed,Medium Credit Risk,Medium DTI,4314,589,13.65,82489.38,128235.52,13.44
+Unemployed,Medium Credit Risk,Low DTI,6556,891,13.59,81873.95,128266.36,13.48
+Unemployed,Good Credit,High DTI,6376,839,13.16,81996.03,128843.99,13.53
+Unemployed,Good Credit,Medium DTI,4274,556,13.01,82187.11,129193.17,13.43
+Self-employed,High Credit Risk,High DTI,6436,825,12.82,82059.19,127228.06,13.41
+Self-employed,Medium Credit Risk,High DTI,6421,817,12.72,83362.41,127963.13,13.53
+Unemployed,Excellent Credit,Medium DTI,3014,380,12.61,81674.63,129111.89,13.49
+Part-time,High Credit Risk,Low DTI,6659,839,12.6,82880.89,127154.47,13.51
+Unemployed,Excellent Credit,High DTI,4342,544,12.53,82234.01,125937.63,13.59
+Part-time,Medium Credit Risk,High DTI,6605,823,12.46,82824.7,127635.12,13.46
+Part-time,Medium Credit Risk,Medium DTI,4264,531,12.45,82179.09,126094.93,13.45
+Part-time,Good Credit,High DTI,6517,809,12.41,82373.39,127661.47,13.61
+Self-employed,Good Credit,High DTI,6391,766,11.99,81971.18,127345.26,13.39
+Part-time,Good Credit,Medium DTI,4258,508,11.93,81635.82,128487.72,13.55
+Self-employed,High Credit Risk,Low DTI,6549,774,11.82,82578.53,127247.5,13.49
+Self-employed,Medium Credit Risk,Medium DTI,4306,502,11.66,82329.41,126409.45,13.31
+Part-time,Medium Credit Risk,Low DTI,6716,779,11.6,83140.47,127617.02,13.52
+Unemployed,Good Credit,Low DTI,6628,769,11.6,81971.64,127933.63,13.42
+Self-employed,Medium Credit Risk,Low DTI,6653,760,11.42,82518.66,128614.67,13.43
+Part-time,Excellent Credit,High DTI,4274,476,11.14,82643.83,126945.04,13.42
+Full-time,High Credit Risk,High DTI,6415,708,11.04,82253.18,126600.25,13.46
+Self-employed,Good Credit,Medium DTI,4281,472,11.03,81303.96,127473.37,13.53
+Unemployed,Excellent Credit,Low DTI,4489,494,11.0,82628.46,128941.0,13.51
+Full-time,High Credit Risk,Medium DTI,4211,453,10.76,83044.63,128512.78,13.59
+Self-employed,Excellent Credit,High DTI,4239,450,10.62,82958.57,129174.93,13.43
+Part-time,Good Credit,Low DTI,6684,702,10.5,81783.82,127912.55,13.47
+Self-employed,Excellent Credit,Medium DTI,2921,300,10.27,81743.37,127086.71,13.6
+Full-time,High Credit Risk,Low DTI,6836,697,10.2,83008.47,127167.21,13.52
+Full-time,Medium Credit Risk,High DTI,6598,666,10.09,82894.71,127790.75,13.53
+Part-time,Excellent Credit,Medium DTI,2944,291,9.88,82501.76,127195.99,13.49
+Full-time,Medium Credit Risk,Low DTI,6475,614,9.48,83245.49,127532.19,13.51
+Self-employed,Good Credit,Low DTI,6716,633,9.43,83259.56,126673.01,13.62
+Part-time,Excellent Credit,Low DTI,4422,413,9.34,82442.28,126397.34,13.59
+Full-time,Good Credit,High DTI,6227,570,9.15,83620.18,127350.4,13.59
+Full-time,Medium Credit Risk,Medium DTI,4453,406,9.12,82996.2,126865.37,13.24
+Self-employed,Excellent Credit,Low DTI,4426,394,8.9,81864.68,126704.76,13.44
+Full-time,Good Credit,Medium DTI,4399,390,8.87,82217.34,128124.69,13.45
+Full-time,Excellent Credit,High DTI,4247,375,8.83,83261.07,128963.44,13.51
+Full-time,Good Credit,Low DTI,6539,566,8.66,82468.14,127196.41,13.49
+Full-time,Excellent Credit,Medium DTI,2852,238,8.35,81775.4,126303.47,13.38
+Full-time,Excellent Credit,Low DTI,4404,341,7.74,83482.87,127483.9,13.5
